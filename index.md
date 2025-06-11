@@ -21,7 +21,7 @@ During his tenure at the Executive Yuan of the Republic of China, Dr. Chen playe
 
 Dr. Chen has extensive experience at the nexus of policy implementation and academic research. His scholarly work includes the following peer-reviewed publications:
 
-1. **Drafting spectrum policy in an access-price targeting perspective**, *Computer Standards & Interfaces*, Vol. 62, 2019  
+1. **Drafting spectrum policy in an access-price targeting perspective and exploring its embedded biological nature**, *Computer Standards & Interfaces*, Vol. 62, 2019  
    DOI: [10.1016/j.csi.2018.11.003](https://doi.org/10.1016/j.csi.2018.11.003) \| [Download PDF](j.csi.2018.11.003.pdf)
 
 2. **Impossible trinity: A guideline to shape telecommunication policy**, *Computer Standards & Interfaces*, Vol. 65, 2019  
