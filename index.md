@@ -3,7 +3,7 @@ title: "Yen-Hung Chen"
 layout: default
 ---
 
-[Details ➤] (https://www.notion.so/pplong/Network-Geopolitics-Lab-9b1898b4264b4c479cba4bd08c10d512?pvs=12) \| [中文版點此 ➤] (index_zh.html)
+[Details ➤](https://www.notion.so/pplong/Network-Geopolitics-Lab-9b1898b4264b4c479cba4bd08c10d512?pvs=12) \| [中文版點此 ➤](index_zh.html)
 
 > In an era defined by digital interdependence and contested information flows, **network geopolitics** emerges as a critical lens for understanding how infrastructure, regulation, and strategic behavior shape global power dynamics. This lab focuses on the intersection of digital sovereignty, infrastructure resilience, and institutional strategy—where policy meets technology under geopolitical pressure.
 
