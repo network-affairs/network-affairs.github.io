@@ -2,9 +2,17 @@
 title: "Yen-Hung Chen"
 layout: default
 ---
-[中文版點此 ➤](index_zh.html)
+
+[Details ➤] (https://www.notion.so/pplong/Network-Geopolitics-Lab-9b1898b4264b4c479cba4bd08c10d512?pvs=12) \| [中文版點此 ➤] (index_zh.html)
+
+> In an era defined by digital interdependence and contested information flows, **network geopolitics** emerges as a critical lens for understanding how infrastructure, regulation, and strategic behavior shape global power dynamics. This lab focuses on the intersection of digital sovereignty, infrastructure resilience, and institutional strategy—where policy meets technology under geopolitical pressure.
+
+
+
+At the core of this research agenda is the work of **Dr. Yen-Hung Chen**, whose contributions have helped define how states respond to infrastructure-based strategic vulnerabilities in the internet and telecommunications sectors. His experience bridges national policy design and scholarly inquiry into the governance of digital networks.
 
 # Yen-Hung Chen
+
 ## Professional Background
 
 Dr. Yen-Hung Chen is a policy researcher whose work lies at the intersection of **agenda-setting strategy and network geopolitics**. He specializes in the formulation of national strategies to address systemic challenges in the internet and telecommunications sectors. His expertise spans telecommunications performance evaluation, digital infrastructure development, and regulatory frameworks—domains critical to navigating the evolving interplay between technological innovation and institutional adaptation.
@@ -38,7 +46,7 @@ Since leaving public office in 2016, Dr. Chen has remained active as an academic
 > 1. Policy wargaming enables decision-makers to simulate strategic behaviors across interconnected digital and geopolitical domains—particularly where **network chokepoints and regulatory asymmetries** impact national interests.  
 > 2. In complex domains such as next-generation telecom infrastructure, AI standards, and cross-border data flows, traditional planning methods often fall short in addressing adversarial strategies and systemic uncertainty.  
 > 3. This project leveraged Generative AI (OpenAI, DeepSeek) to support **scenario evolution, adversarial logic modeling, and strategic response generation**. Prompt engineering was used to structure stakeholder roles and simulate competing policy rationales.  
-> 4. This methodology equips governments to **stress-test infrastructure decisions**, anticipate **network-based coercion**, and co-develop adaptive policies with **enhanced network geopolitical foresight**.
+> 4. This methodology equips governments to **stress-test infrastructure decisions**, anticipate **network-based coercion**, and co-develop adaptive policies with **enhanced geopolitical foresight**.
 
 ---
 
