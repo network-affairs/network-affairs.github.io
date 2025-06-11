@@ -3,50 +3,48 @@ title: "Yen-Hung Chen"
 layout: default
 ---
 
-[Details ➤](https://www.notion.so/pplong/Network-Geopolitics-Lab-9b1898b4264b4c479cba4bd08c10d512?pvs=12) \| [中文版點此 ➤](index_zh.html)
+[Full Profile ➤](https://www.notion.so/pplong/Network-Geopolitics-Lab-9b1898b4264b4c479cba4bd08c10d512?pvs=12) \| [中文版 ➤](index_zh.html)
 
-> In an era defined by digital interdependence and contested information flows, **network geopolitics** emerges as a critical lens for understanding how infrastructure, regulation, and strategic behavior shape global power dynamics. This lab focuses on the intersection of digital sovereignty, infrastructure resilience, and institutional strategy—where policy meets technology under geopolitical pressure.
+> In an era characterized by deepening digital interdependence and intensifying contestation over information flows, **network geopolitics** has emerged as a critical framework for understanding the restructuring of global power and institutional competition. This research initiative focuses on the intersection of digital sovereignty, infrastructure resilience, and institutional strategy—highlighting how policy and technology co-evolve under geopolitical pressures.
 
-
-
-At the core of this research agenda is the work of **Dr. Yen-Hung Chen**, whose contributions have helped define how states respond to infrastructure-based strategic vulnerabilities in the internet and telecommunications sectors. His experience bridges national policy design and scholarly inquiry into the governance of digital networks.
+A key contributor to this intellectual agenda is **Dr. Yen-Hung Chen**, whose longstanding research and policy engagement examine how governments strategically employ agenda-setting mechanisms—within existing regulatory and institutional frameworks—to address structural vulnerabilities in internet and telecommunications infrastructure. His work bridges national-level policy design with scholarly inquiry into the governance of digital networks.
 
 # Yen-Hung Chen
 
-## Professional Background
+## Academic and Policy Background
 
-Dr. Yen-Hung Chen is a policy researcher whose work lies at the intersection of **agenda-setting strategy and network geopolitics**. He specializes in the formulation of national strategies to address systemic challenges in the internet and telecommunications sectors. His expertise spans telecommunications performance evaluation, digital infrastructure development, and regulatory frameworks—domains critical to navigating the evolving interplay between technological innovation and institutional adaptation.
+Dr. Yen-Hung Chen is a policy scholar specializing in **agenda-setting strategy and network geopolitics**, with a focus on how states leverage institutional instruments to navigate systemic challenges in the internet and telecommunications domains. His areas of expertise include performance evaluation of telecom policy, digital infrastructure planning, and legal-regulatory design, emphasizing the dynamic interplay between technological innovation and institutional transformation.
 
-His research and policy contributions tackle the complexities of **network interdependence, global power asymmetries, and contested digital sovereignties**, with a focus on the shifting landscape of internet governance. Dr. Chen’s work engages with core issues of **network-centric statecraft**, including spectrum regulation, critical infrastructure security, and the governance of information flows.
+His work addresses complex issues such as **network dependency, global power asymmetries, and the contestation of digital sovereignty**, with a particular focus on the evolving architecture of internet governance. At the heart of his research lies the concept of **network-centric statecraft**, encompassing topics such as spectrum regulation, critical infrastructure security, and cross-border data governance.
 
-During his tenure at the Executive Yuan of the Republic of China, Dr. Chen played a key role in shaping the country’s telecommunications agenda amid intensifying global competition over digital infrastructure. He served as a principal architect of Taiwan’s 4G and 5G policy frameworks, authored the nation's first national spectrum supply plan, and drafted its inaugural public policy document on spectrum governance. These initiatives helped **mitigate strategic vulnerabilities at the national level associated with infrastructure dependence**.
+During his tenure at the Executive Yuan of the Republic of China, Dr. Chen played a key role in shaping national telecommunications strategy amid intensifying global competition over digital infrastructure. He served as a principal architect of Taiwan’s 4G and 5G policy frameworks, drafted the country’s first national spectrum supply plan, and initiated the government’s formal publication of the National Frequency Allocation Program. These efforts contributed to **alleviating strategic vulnerabilities—at the national level—associated with infrastructure dependencies**.
 
-His dual engagement in policymaking and academic research has produced several internationally recognized publications, including:
+Dr. Chen has extensive experience at the nexus of policy implementation and academic research. His scholarly work includes the following peer-reviewed publications:
 
-1. **Drafting spectrum policy in an access-price targeting perspective**, *Computer Standards & Interfaces*, Vol. 62, 2019.  
+1. **Drafting spectrum policy in an access-price targeting perspective**, *Computer Standards & Interfaces*, Vol. 62, 2019  
    DOI: [10.1016/j.csi.2018.11.003](https://doi.org/10.1016/j.csi.2018.11.003) \| [Download PDF](j.csi.2018.11.003.pdf)
 
-2. **Impossible trinity: A guideline to shape telecommunication policy**, *Computer Standards & Interfaces*, Vol. 65, 2019.  
+2. **Impossible trinity: A guideline to shape telecommunication policy**, *Computer Standards & Interfaces*, Vol. 65, 2019  
    DOI: [10.1016/j.csi.2019.03.006](https://doi.org/10.1016/j.csi.2019.03.006) \| [Download PDF](j.csi.2019.03.006.pdf)
 
-Since leaving public office in 2016, Dr. Chen has remained active as an academic and policy advisor, contributing to national strategies in **telecommunications resource governance, information security, and network resilience**. He currently serves as a faculty member in the Department of Information Management at the National Taipei University of Nursing and Health Sciences.
+Since departing from public service in 2016, Dr. Chen has remained actively engaged in research and advisory work related to **telecommunications and digital resource governance, as well as information security policy**. He currently serves as a full-time faculty member in the Department of Information Management at the National Taipei University of Nursing and Health Sciences.
 
 ---
 
-## 💻 Long-term Projects
+## 💻 Long-Term Research Projects
 
-### 🔧 [Network Sovereignty through National Spectrum Planning](#)
+### 🔧 [Enhancing Digital Sovereignty through National Spectrum Planning](#)
 
-> 1. Spectrum governance forms the backbone of digital sovereignty, influencing both domestic connectivity and international alignments.  
-> 2. This project operationalized **ITU-recommended methodologies** using **Python** to model multi-band spectrum demand across various network scenarios and geostrategic contexts.  
-> 3. By combining quantitative simulation with institutional analysis, the study demonstrated how spectrum policy can mitigate reliance on foreign infrastructure and strengthen **sovereign control over critical digital pathways**.
+> 1. Spectrum governance is foundational to digital sovereignty, directly shaping national connectivity capabilities and international alignment.  
+> 2. This project operationalized **ITU-recommended methodologies**, incorporating **Python-based modeling tools** to simulate multi-band spectrum demand across diverse network scenarios and geopolitical contexts.  
+> 3. Through a combination of quantitative simulation and institutional analysis, the study demonstrates how sound spectrum policy can reduce external infrastructure dependencies and reinforce **sovereign control over strategic digital assets**.
 
-### 🌐 [Policy Wargaming in Network Geopolitical Scenarios](#)
+### 🌐 [Policy Wargaming under Network Geopolitical Conditions](#)
 
-> 1. Policy wargaming enables decision-makers to simulate strategic behaviors across interconnected digital and geopolitical domains—particularly where **network chokepoints and regulatory asymmetries** impact national interests.  
-> 2. In complex domains such as next-generation telecom infrastructure, AI standards, and cross-border data flows, traditional planning methods often fall short in addressing adversarial strategies and systemic uncertainty.  
-> 3. This project leveraged Generative AI (OpenAI, DeepSeek) to support **scenario evolution, adversarial logic modeling, and strategic response generation**. Prompt engineering was used to structure stakeholder roles and simulate competing policy rationales.  
-> 4. This methodology equips governments to **stress-test infrastructure decisions**, anticipate **network-based coercion**, and co-develop adaptive policies with **enhanced geopolitical foresight**.
+> 1. Policy wargaming provides a strategic tool for simulating the complex interplay between digital and geopolitical forces, particularly in contexts where **network chokepoints and regulatory asymmetries** pose potential threats to national security.  
+> 2. Traditional planning methods often fall short in addressing adversarial strategies and systemic uncertainty, especially in domains such as next-generation telecom infrastructure, AI standardization, and cross-border data flows.  
+> 3. This project incorporates Generative AI technologies (OpenAI, DeepSeek) to facilitate **scenario evolution, adversarial logic modeling, and strategic response generation**, leveraging prompt engineering to simulate multi-stakeholder engagement and policy competition.  
+> 4. The methodology enables government institutions to **stress-test infrastructure decisions**, anticipate **coercive threats in networked environments**, and collaboratively design policy frameworks with **enhanced geopolitical foresight and adaptive capacity**.
 
 ---
 
