@@ -3,7 +3,7 @@ title: "陳彥宏"
 layout: default
 ---
 
-[詳細介紹 ➤](https://www.notion.so/pplong/Network-Geopolitics-Lab-9b1898b4264b4c479cba4bd08c10d512?pvs=12) \| [English version ➤](index.html)
+[詳細介紹 ➤](https://pplong.notion.site/Network-Geopolitics-Lab-9b1898b4264b4c479cba4bd08c10d512) \| [English version ➤](index.html)
 
 > 在當代數位相依與資訊流動高度競逐的時代背景下，**網路地緣政治（Network Geopolitics）**已成為理解全球權力重組與制度博弈的重要分析視角。本研究室聚焦於數位主權、基礎建設韌性與制度性戰略等交叉議題，強調在地緣政治壓力下，政策與科技如何相互形構並協同演化。
 
