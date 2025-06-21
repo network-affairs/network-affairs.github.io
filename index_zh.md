@@ -52,4 +52,5 @@ layout: default
 
 - 📧 [tim.yh.chen@gmail.com](mailto:tim.yh.chen@gmail.com)  
 - 📧 [tim.yh.chen@outlook.com](mailto:tim.yh.chen@outlook.com)  
+- 📧 [pplong@go.edu.tw](mailto:pplong@go.edu.tw) 
 - 💻 [github.com/pplongChen](https://github.com/pplongChen)
